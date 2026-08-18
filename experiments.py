@@ -99,7 +99,7 @@ history= model.fit(
 
 # model.save("model.h5")
 
-# Load TensorBoard Extension
+# To Load TensorBoard Extension in Jupyter Notebook
 # %load_ext tensorboard 
 
 # %tensorboard --logdir logs/fit
