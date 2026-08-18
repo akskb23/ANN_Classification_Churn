@@ -104,4 +104,7 @@ history= model.fit(
 
 # %tensorboard --logdir logs/fit
 
+# Tensorboard run from terminal
+# tensorboard --logdir logs/fit
+
 
